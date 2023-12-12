@@ -1,10 +1,54 @@
 {
     "wallpapers": [
         {
+            "id": 20,
+            "n": "Galaxy Lock",
+            "u": "https://iambavith-dev.github.io/d2FsbGR1eA/20.png",
+            "c": "Pattern",
+            "a": ""
+        },
+        {
+            "id": 19,
+            "n": "Galaxy Home",
+            "u": "https://iambavith-dev.github.io/d2FsbGR1eA/19.png",
+            "c": "Pattern",
+            "a": "",
+            "f": true
+        },
+        {
+            "id": 18,
+            "n": "Who knows Lock",
+            "u": "https://iambavith-dev.github.io/d2FsbGR1eA/18.png",
+            "c": "Character",
+            "a": ""
+        },
+        {
+            "id": 17,
+            "n": "Who knows Home",
+            "u": "https://iambavith-dev.github.io/d2FsbGR1eA/17.png",
+            "c": "Character",
+            "a": ""
+        },
+        {
+            "id": 16,
+            "n": "Forest Bridge Night",
+            "u": "https://iambavith-dev.github.io/d2FsbGR1eA/16.png",
+            "c": "Vector",
+            "a": "",
+            "f": true
+        },
+        {
+            "id": 15,
+            "n": "Forest Bridge",
+            "u": "https://iambavith-dev.github.io/d2FsbGR1eA/15.png",
+            "c": "Vector",
+            "a": ""
+        },
+        {
             "id": 4,
             "n": "Christmas Lock",
             "u": "https://iambavith-dev.github.io/d2FsbGR1eA/4.png",
-            "c": "Minimal",
+            "c": "Vector",
             "a": "",
             "f": true
         },
@@ -12,7 +56,7 @@
             "id": 3,
             "n": "Christmas Home",
             "u": "https://iambavith-dev.github.io/d2FsbGR1eA/3.png",
-            "c": "Minimal",
+            "c": "Vector",
             "a": ""
         },
         {
@@ -27,7 +71,8 @@
             "n": "Stage Lock",
             "u": "https://iambavith-dev.github.io/d2FsbGR1eA/14.png",
             "c": "Character",
-            "a": ""
+            "a": "",
+            "f": true
         },
         {
             "id": 10,
@@ -63,14 +108,14 @@
             "id": 6,
             "n": "Lonely Mountain Lock",
             "u": "https://iambavith-dev.github.io/d2FsbGR1eA/6.png",
-            "c": "Minimal",
+            "c": "Vector",
             "a": ""
         },
         {
             "id": 5,
             "n": "Lonely Mountain Home",
             "u": "https://iambavith-dev.github.io/d2FsbGR1eA/5.png",
-            "c": "Minimal",
+            "c": "Vector",
             "a": "",
             "f": true
         },
@@ -92,14 +137,14 @@
             "id": 12,
             "n": "Usuall Patterns",
             "u": "https://iambavith-dev.github.io/d2FsbGR1eA/12.png",
-            "c": "Minimal",
+            "c": "Pattern",
             "a": ""
         },
         {
             "id": 11,
             "n": "Usuall Patterns",
             "u": "https://iambavith-dev.github.io/d2FsbGR1eA/11.png",
-            "c": "Minimal",
+            "c": "Pattern",
             "a": ""
         }
     ]
