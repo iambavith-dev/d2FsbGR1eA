@@ -1,11 +1,71 @@
 {
     "wallpapers": [
         {
+            "id": 26,
+            "n": "Christmas",
+            "u": "https://iambavith-dev.github.io/d2FsbGR1eA/26.png",
+            "c": "Vector",
+            "a": ""
+        },
+        {
+            "id": 25,
+            "n": "Christmas",
+            "u": "https://iambavith-dev.github.io/d2FsbGR1eA/25.png",
+            "c": "Vector",
+            "a": ""
+        },
+        {
+            "id": 24,
+            "n": "Christmas Lock",
+            "u": "https://iambavith-dev.github.io/d2FsbGR1eA/24.png",
+            "c": "Pattern",
+            "a": ""
+        },
+        {
+            "id": 23,
+            "n": "Christmas Home",
+            "u": "https://iambavith-dev.github.io/d2FsbGR1eA/23.png",
+            "c": "Pattern",
+            "a": ""
+        },
+        {
+            "id": 22,
+            "n": "Christmas Lock",
+            "u": "https://iambavith-dev.github.io/d2FsbGR1eA/22.png",
+            "c": "Pattern",
+            "a": "",
+            "f": true
+        },
+        {
+            "id": 21,
+            "n": "Christmas Home",
+            "u": "https://iambavith-dev.github.io/d2FsbGR1eA/21.png",
+            "c": "Pattern",
+            "a": "",
+            "f": true
+        },
+        {
             "id": 20,
             "n": "Galaxy Lock",
             "u": "https://iambavith-dev.github.io/d2FsbGR1eA/20.png",
             "c": "Pattern",
             "a": ""
+        },
+        {
+            "id": 27,
+            "n": "Pattern",
+            "u": "https://iambavith-dev.github.io/d2FsbGR1eA/27.png",
+            "c": "Pattern",
+            "a": "",
+            "f": true
+        },
+        {
+            "id": 28,
+            "n": "Pattern",
+            "u": "https://iambavith-dev.github.io/d2FsbGR1eA/28.png",
+            "c": "Pattern",
+            "a": "",
+            "f": true
         },
         {
             "id": 19,
@@ -57,14 +117,16 @@
             "n": "Christmas Home",
             "u": "https://iambavith-dev.github.io/d2FsbGR1eA/3.png",
             "c": "Vector",
-            "a": ""
+            "a": "",
+            "f": true
         },
         {
             "id": 13,
             "n": "Stage Home",
             "u": "https://iambavith-dev.github.io/d2FsbGR1eA/13.png",
             "c": "Character",
-            "a": ""
+            "a": "",
+            "f": true
         },
         {
             "id": 14,
