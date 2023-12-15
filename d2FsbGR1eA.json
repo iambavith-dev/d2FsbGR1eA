@@ -52,6 +52,14 @@
             "a": ""
         },
         {
+            "id": 19,
+            "n": "Galaxy Home",
+            "u": "https://iambavith-dev.github.io/d2FsbGR1eA/19.png",
+            "c": "Pattern",
+            "a": "",
+            "f": true
+        },
+        {
             "id": 27,
             "n": "Pattern",
             "u": "https://iambavith-dev.github.io/d2FsbGR1eA/27.png",
@@ -68,12 +76,19 @@
             "f": true
         },
         {
-            "id": 19,
-            "n": "Galaxy Home",
-            "u": "https://iambavith-dev.github.io/d2FsbGR1eA/19.png",
+            "id": 29,
+            "n": "Pattern",
+            "u": "https://iambavith-dev.github.io/d2FsbGR1eA/29.png",
             "c": "Pattern",
             "a": "",
             "f": true
+        },
+        {
+            "id": 30,
+            "n": "Pattern",
+            "u": "https://iambavith-dev.github.io/d2FsbGR1eA/30.png",
+            "c": "Pattern",
+            "a": ""
         },
         {
             "id": 18,
@@ -133,6 +148,22 @@
             "n": "Stage Lock",
             "u": "https://iambavith-dev.github.io/d2FsbGR1eA/14.png",
             "c": "Character",
+            "a": "",
+            "f": true
+        },
+        {
+            "id": 37,
+            "n": "Flat",
+            "u": "https://iambavith-dev.github.io/d2FsbGR1eA/37.png",
+            "c": "Flat",
+            "a": "",
+            "f": true
+        },
+        {
+            "id": 38,
+            "n": "Flat",
+            "u": "https://iambavith-dev.github.io/d2FsbGR1eA/38.png",
+            "c": "Flat",
             "a": "",
             "f": true
         },
@@ -208,6 +239,53 @@
             "u": "https://iambavith-dev.github.io/d2FsbGR1eA/11.png",
             "c": "Pattern",
             "a": ""
+        },
+        {
+            "id": 31,
+            "n": "Flat",
+            "u": "https://iambavith-dev.github.io/d2FsbGR1eA/31.png",
+            "c": "Flat",
+            "a": ""
+        },
+        {
+            "id": 32,
+            "n": "Flat",
+            "u": "https://iambavith-dev.github.io/d2FsbGR1eA/32.png",
+            "c": "Flat",
+            "a": "",
+            "f": true
+        },
+        {
+            "id": 33,
+            "n": "Flat",
+            "u": "https://iambavith-dev.github.io/d2FsbGR1eA/33.png",
+            "c": "Flat",
+            "a": "",
+            "f": true
+        },
+        {
+            "id": 34,
+            "n": "Flat",
+            "u": "https://iambavith-dev.github.io/d2FsbGR1eA/34.png",
+            "c": "Flat",
+            "a": "",
+            "f": true
+        },
+        {
+            "id": 35,
+            "n": "Flat",
+            "u": "https://iambavith-dev.github.io/d2FsbGR1eA/35.png",
+            "c": "Flat",
+            "a": "",
+            "f": true
+        },
+        {
+            "id": 36,
+            "n": "Flat",
+            "u": "https://iambavith-dev.github.io/d2FsbGR1eA/36.png",
+            "c": "Flat",
+            "a": "",
+            "f": true
         }
     ]
 }
