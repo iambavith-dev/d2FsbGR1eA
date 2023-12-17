@@ -1,6 +1,36 @@
 {
     "wallpapers": [
         {
+            "id": 42,
+            "n": "Christmas",
+            "u": "https://iambavith-dev.github.io/d2FsbGR1eA/42.png",
+            "c": "Pattern",
+            "a": ""
+        },
+        {
+            "id": 41,
+            "n": "Christmas",
+            "u": "https://iambavith-dev.github.io/d2FsbGR1eA/41.png",
+            "c": "Vector",
+            "a": "",
+            "f": true
+        },
+        {
+            "id": 40,
+            "n": "Christmas",
+            "u": "https://iambavith-dev.github.io/d2FsbGR1eA/40.png",
+            "c": "Pattern",
+            "a": ""
+        },
+        {
+            "id": 39,
+            "n": "Christmas",
+            "u": "https://iambavith-dev.github.io/d2FsbGR1eA/39.png",
+            "c": "Pattern",
+            "a": "",
+            "f": true
+        },
+        {
             "id": 26,
             "n": "Christmas",
             "u": "https://iambavith-dev.github.io/d2FsbGR1eA/26.png",
