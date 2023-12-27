@@ -1,6 +1,35 @@
 {
     "wallpapers": [
         {
+            "id": 52,
+            "n": "Fek World",
+            "u": "https://iambavith-dev.github.io/d2FsbGR1eA/52.png",
+            "c": "Vector",
+            "a": ""
+        },
+        {
+            "id": 51,
+            "n": "Fek World",
+            "u": "https://iambavith-dev.github.io/d2FsbGR1eA/51.png",
+            "c": "Vector",
+            "a": ""
+        },
+        {
+            "id": 50,
+            "n": "Ball Hand",
+            "u": "https://iambavith-dev.github.io/d2FsbGR1eA/50.png",
+            "c": "Vector",
+            "a": ""
+        },
+        {
+            "id": 49,
+            "n": "Ball Hand",
+            "u": "https://iambavith-dev.github.io/d2FsbGR1eA/49.png",
+            "c": "Vector",
+            "a": "",
+            "f": true
+        },
+        {
             "id": 47,
             "n": "Ugly Pattern",
             "u": "https://iambavith-dev.github.io/d2FsbGR1eA/47.png",
