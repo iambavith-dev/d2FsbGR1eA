@@ -1,6 +1,36 @@
 {
     "wallpapers": [
         {
+            "id": 56,
+            "n": "Pattern",
+            "u": "https://iambavith-dev.github.io/d2FsbGR1eA/56.png",
+            "c": "Pattern",
+            "a": ""
+        },
+        {
+            "id": 55,
+            "n": "Pattern",
+            "u": "https://iambavith-dev.github.io/d2FsbGR1eA/55.png",
+            "c": "Pattern",
+            "a": "",
+            "f": true
+        },
+        {
+            "id": 54,
+            "n": "Lines",
+            "u": "https://iambavith-dev.github.io/d2FsbGR1eA/54.png",
+            "c": "Pattern",
+            "a": ""
+        },
+        {
+            "id": 53,
+            "n": "Lines",
+            "u": "https://iambavith-dev.github.io/d2FsbGR1eA/53.png",
+            "c": "Pattern",
+            "a": "",
+            "f": true
+        },
+        {
             "id": 52,
             "n": "Fek World",
             "u": "https://iambavith-dev.github.io/d2FsbGR1eA/52.png",
