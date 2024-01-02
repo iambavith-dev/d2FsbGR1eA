@@ -1,6 +1,35 @@
 {
     "wallpapers": [
         {
+            "id": 60,
+            "n": "Forest",
+            "u": "https://iambavith-dev.github.io/d2FsbGR1eA/60.png",
+            "c": "Vector",
+            "a": ""
+        },
+        {
+            "id": 59,
+            "n": "Forest",
+            "u": "https://iambavith-dev.github.io/d2FsbGR1eA/59.png",
+            "c": "Vector",
+            "a": ""
+        },
+        {
+            "id": 58,
+            "n": "Grass",
+            "u": "https://iambavith-dev.github.io/d2FsbGR1eA/58.png",
+            "c": "Vector",
+            "a": ""
+        },
+        {
+            "id": 57,
+            "n": "Grass",
+            "u": "https://iambavith-dev.github.io/d2FsbGR1eA/57.png",
+            "c": "Vector",
+            "a": "",
+            "f": true
+        },
+        {
             "id": 56,
             "n": "Pattern",
             "u": "https://iambavith-dev.github.io/d2FsbGR1eA/56.png",
