@@ -1,6 +1,21 @@
 {
     "wallpapers": [
         {
+            "id": 61,
+            "n": "Funkey Cow",
+            "u": "https://iambavith-dev.github.io/d2FsbGR1eA/61.png",
+            "c": "Vector",
+            "a": ""
+        },
+        {
+            "id": 62,
+            "n": "Maths Vector",
+            "u": "https://iambavith-dev.github.io/d2FsbGR1eA/62.png",
+            "c": "Vector",
+            "a": "",
+            "f": true
+        },
+        {
             "id": 60,
             "n": "Forest",
             "u": "https://iambavith-dev.github.io/d2FsbGR1eA/60.png",
