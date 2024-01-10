@@ -1,6 +1,21 @@
 {
     "wallpapers": [
         {
+            "id": 63,
+            "n": "Funkey Yellow",
+            "u": "https://iambavith-dev.github.io/d2FsbGR1eA/62.png",
+            "c": "Vector",
+            "a": "",
+            "f": true
+        },
+        {
+            "id": 64,
+            "n": "Gemo Pattern",
+            "u": "https://iambavith-dev.github.io/d2FsbGR1eA/62.png",
+            "c": "Pattern",
+            "a": ""
+        },
+        {
             "id": 61,
             "n": "Funkey Cow",
             "u": "https://iambavith-dev.github.io/d2FsbGR1eA/61.png",
